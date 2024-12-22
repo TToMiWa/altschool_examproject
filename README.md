@@ -3,7 +3,7 @@ Landing Page Deployment on EC2
 ## **Overview**  
 This repository documents my journey of deploying a simple HTML landing page to an AWS EC2 instance. It’s a practical demonstration of provisioning a server, configuring it to serve a webpage, and overcoming challenges along the way.  
 
-👉 **Check out the live site here**: [http://44.201.159.38](http://44.201.159.38)  
+👉 **Check out the live site here**: [http://44.203.89.255](http://44.203.89.255)  
 
 ---
 
