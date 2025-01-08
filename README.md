@@ -43,7 +43,7 @@ To replace the "Hello World" page:
   ```
 
 ### 5. **Testing the Website**  
-I opened my browser and navigated to `http://44.201.159.38` to verify the deployment.  
+I opened my browser and navigated to (http://3.89.126.104) to verify the deployment.
 
 ---
 
